@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 video_frames/*
+output_frames/*
+enhanced_frames/test1/
 
 # Distribution / packaging
 .Python
