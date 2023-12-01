@@ -11,6 +11,7 @@ output_frames/*
 enhanced_frames/test1/
 output_videos/*
 
+
 # Distribution / packaging
 .Python
 build/
