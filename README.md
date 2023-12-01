@@ -1,5 +1,9 @@
 ## Enhancing Video Quality
 
+## output:
+
+## Steps:
+
 ## create direcotry called input_videos and put all input videos in this directory
         input_videos
         ├── test1.mp4                   
