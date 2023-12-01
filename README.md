@@ -1,7 +1,9 @@
 ## Enhancing Video Quality
 
-## output:
-   [Watch the Video]([your_google_drive_video_link](https://drive.google.com/file/d/1wuWaTKL3MCRels8zm46klTZsgrlRY0Sa/view?usp=sharing))
+   <a href="https://drive.google.com/file/d/1wuWaTKL3MCRels8zm46klTZsgrlRY0Sa/view?usp=sharing" target="_blank">Input Video</a>
+
+   <a href="https://drive.google.com/file/d/1k49ykUxijcOw80YOI4m2kRhQLi2svs-4/view?usp=sharing" target="_blank">Output Video</a>
+      * pls Download the video and then show because Drive isn't showing Video Perfectly as Expected.
 ## Steps:
 
 ## create direcotry called input_videos and put all input videos in this directory
