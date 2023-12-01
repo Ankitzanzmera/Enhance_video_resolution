@@ -65,6 +65,6 @@
 
 ## you can refer notebook also : notebook_ESRGAN.ipynb
 
-## Since Videos is size of 425MB it can't be share on Github, you can see Video <a href="https://drive.google.com/drive/folders/1DlpQrrDiZo9ZJy7f8kJNSjtYbxIw8fGQ" target="_blank">Here</a>
+## Since Videos is size of 425MB it can't be share on Github, you can see Video <a href="https://drive.google.com/file/d/1k49ykUxijcOw80YOI4m2kRhQLi2svs-4/view?usp=sharing" target="_blank">Here</a>
 
 ## Pls First Download The video and then see, in drive it's not showing perfectly
