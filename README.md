@@ -34,7 +34,8 @@
 ## Install Pre-trained Model
     cd Real-ESRGAN/experiments/pretrained_models/
     !wget Real-ESRGAN\experiments\pretrained_models\RealESRGAN_x4plus.pth
-        # Link for Pre-trained model : https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+
+## Download pre-trained model <a href="https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth" target="_blank">Here</a>
 
 ## Copy run.py into Real-ESRGAN
 
@@ -62,5 +63,7 @@
 ## This model enhance frame resolution * 4  
 ## in my case test1.mp4 enhance from 4.19 MB to 426 MB 
 
-## you can refer notebook also : 
+## you can refer notebook also : notebook_ESRGAN.ipynb
+
+## Since Videos is size of 425MB it can't be share on Github, you can see Video <a href="https://drive.google.com/drive/folders/1DlpQrrDiZo9ZJy7f8kJNSjtYbxIw8fGQ" target="_blank">Here</a>
  
